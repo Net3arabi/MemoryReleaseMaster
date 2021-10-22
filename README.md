@@ -1,7 +1,17 @@
 ![1](https://user-images.githubusercontent.com/92983771/138446866-5c57b7d1-f3da-4823-888e-7dd693733095.jpg)
-## Memory Release Master Description
-Memory Release Master Free Version monitors your system in the background and frees up memory whenever needed to increase the performance of your computer. It automatically optimizes in the background, but never interferes with your work, because it optimizes your system when your processor usage is low. It may substantially improve internal memory management.
+## حول برنامج Memory Release Master
 
-If the physical memory available gets too low, the Memory Release Master Free Version makes the system swap old data to the paging file to free up memory for your applications. The result is that your programs will run faster and there will be more free memory for use!
+يعمل البرنامج علي مراقبة نظامك في الخلفية ويحرر كلما دعت الحاجة إلى زيادة أداء جهاز الكمبيوتر الخاص بك. الصفحة الرئيسية ، الصفحة الداخلية ، الصفحة الداخلية ، الصفحة الداخلية ، الصفحة الأولى ، الصفحة الأولى ، محرك الصفحة الصفحة ، محرك الصفحة> محرك بحث E قد يؤدي إلى تحسين إدارة الذاكرة الداخلية بشكل كبير .
+إذا كانت الذاكرة الفعلية المتاحة منخفضة للغاية ، فإن إصدار Memory Release Master Free يجعل النظام يتبادل البيانات القديمة إلى ملف الترحيل لتحرير الذاكرة لتطبيقاتك. والنتيجة هي أن برامجك ستعمل بشكل أسرع وسيكون هناك المزيد من الذاكرة الخالية للاستخدام و يجمع Memory Improvement Master Free Version بين العديد من إعدادات الكمبيوتر التي تهدف إلى تحسين أدائها بحيث ان هذه الأداة هي الأنسب للأشخاص المطلعين على إدارة أداء Windows.
 
-It will also keep your computer running faster and efficiently, increase your system performance by making more memory available for your applications and the operating system. In addition, It displays a real-time graph of available physical and virtual Memory and Covers the memory and CPU usage information, coupled with real-time memory statistics on available and consumed memory, along with CPU usage.
+كما أنه سيبقي جهاز الكمبيوتر الخاص بك يعمل بشكل أسرع وكفاءة ، ويزيد من أداء نظامك عن طريق توفير المزيد من الذاكرة لتطبيقاتك ونظام التشغيل بالإضافة إلى ذلك فإنه يعرض رسمًا بيانيًا في الوقت الفعلي للذاكرة الفعلية والظاهرية المتاحة ويغطي معلومات استخدام الذاكرة ووحدة المعالجة المركزية ، إلى جانب إحصائيات الذاكرة في الوقت الفعلي على الذاكرة المتاحة والمستهلكة ، إلى جانب استخدام وحدة المعالجة المركزية.
+
+## المميزات والخصائص
+
+
+- Memory Release Master يراقب نظامك ويحرر الذاكرة لزيادة أداء جهاز الكمبيوتر الخاص بك. يقوم تلقائيًا بالتحسين في الخلفية عندما يكون استخدام المعالج منخفضًا ولكنه لا يتداخل مع عملك أبدًا.
+- تعمل هذه الأداة على تحسين إدارة الذاكرة الداخلية بشكل كبير. من الذاكرة الفعلية المتاحة تصبح منخفضة للغاية ، فإنها تقوم بتبديل البيانات القديمة إلى ملف الصفحة لتحرير الذاكرة لتطبيقاتك.
+- يتوفر الإصدار الأخير من Memory Release Master مجاناً ويمكنك تثبيته بكل تأكيد علي ويندوز 7/8/10/11 كما وانه يدعن نواة 32 بت و 64 بت .
+## التحميل
+- اخر اصدار - [تحميل مباشر](https://github.com/Net3arabi/MemoryReleaseMaster/releases)
+
