@@ -1,3 +1,4 @@
+## Memory Release Master Description
 Memory Release Master Free Version monitors your system in the background and frees up memory whenever needed to increase the performance of your computer. It automatically optimizes in the background, but never interferes with your work, because it optimizes your system when your processor usage is low. It may substantially improve internal memory management.
 
 If the physical memory available gets too low, the Memory Release Master Free Version makes the system swap old data to the paging file to free up memory for your applications. The result is that your programs will run faster and there will be more free memory for use!
