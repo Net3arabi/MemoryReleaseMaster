@@ -1,3 +1,4 @@
+![1](https://user-images.githubusercontent.com/92983771/138446866-5c57b7d1-f3da-4823-888e-7dd693733095.jpg)
 ## Memory Release Master Description
 Memory Release Master Free Version monitors your system in the background and frees up memory whenever needed to increase the performance of your computer. It automatically optimizes in the background, but never interferes with your work, because it optimizes your system when your processor usage is low. It may substantially improve internal memory management.
 
